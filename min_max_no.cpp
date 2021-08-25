@@ -1,3 +1,5 @@
+/*To find minimum and maximum number from the array*/
+
 #include <bits/stdc++.h>
 using namespace std;
   
